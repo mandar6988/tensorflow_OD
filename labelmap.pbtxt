@@ -1,0 +1,49 @@
+item {
+    id: 1
+    name: 'man'
+}
+
+item {
+    id: 2
+    name: 'human_face'
+}
+
+item {
+    id: 3
+    name: 'car'
+}
+
+item {
+    id: 4
+    name: 'no_plate'
+}
+
+item {
+    id: 5
+    name: 'orange'
+}
+
+item {
+    id: 6
+    name: 'banana'
+}
+
+item {
+    id: 7
+    name: 'mango'
+}
+
+item {
+    id: 8
+    name: 'bear'
+}
+
+item {
+    id: 9
+    name: 'cheetah'
+}
+
+item {
+    id: 10
+    name: 'elephant'
+}

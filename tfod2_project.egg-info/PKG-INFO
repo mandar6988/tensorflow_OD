@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: tfod2-project
+Version: 0.1
+Summary: TensorFlow Object Detection API Project
+Requires-Python: >=3.6
