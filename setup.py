@@ -18,7 +18,6 @@ REQUIRED_PACKAGES = [
     'pycocotools==2.0.6',
     'Flask==2.2.5',
     'Flask-Cors==4.0.0'
-     # Replace with the actual version of the object_detection package
 ]
 
 setup(
